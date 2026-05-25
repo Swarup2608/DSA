@@ -470,6 +470,99 @@ DSA/
 > 📌 Placeholder: Detailed folder structure documentation will be added later.
 
 ---
+# 🗂️ Multi-Dimensional Problem Organization
+
+<div align="center">
+
+✨ Learn smarter, revise faster, and practice efficiently with multiple learning paths.
+
+</div>
+
+This repository organizes problems in **4 different ways** so every learner can prepare based on their goals, learning style, and preparation strategy.
+
+---
+
+# 🧠 1. Topic Wise Learning
+
+Master concepts one topic at a time with structured progression.
+
+### 📚 Includes
+- Arrays
+- Strings
+- Hashing
+- Linked List
+- Stack & Queue
+- Trees
+- Graphs
+- Dynamic Programming
+- Greedy
+- Backtracking
+- Bit Manipulation
+- And much more...
+
+✅ Best for concept building and deep understanding.
+
+---
+
+# 🎯 2. Level Wise Learning
+
+Practice problems based on difficulty level.
+
+<div align="center">
+
+🟢 Easy &nbsp;&nbsp;&nbsp; 🟡 Medium &nbsp;&nbsp;&nbsp; 🔴 Hard
+
+</div>
+
+✅ Perfect for beginners to advanced learners.  
+✅ Helps in step-by-step progression.
+
+---
+
+# ⏳ 3. Importance Wise Learning
+
+Curated problems based on preparation goals.
+
+## 💼 Interview Important
+- Frequently asked interview questions
+- FAANG/Product company problems
+- Pattern-based interview questions
+
+## 🎓 Exam Important
+- University important questions
+- Core DSA academic problems
+- Theory + coding focused questions
+
+## 🧠 Sharpness Important
+- Logical thinking problems
+- Brainstorming challenges
+- Pattern recognition questions
+- Speed building exercises
+
+✅ Best for targeted preparation.
+
+---
+
+# 🌐 4. Platform Wise Learning
+
+Practice directly from popular coding platforms and resources.
+
+<div align="center">
+
+LeetCode • GeeksForGeeks • NeetCode • Codeforces • CodeChef • AtCoder • HackerRank • CSES • YouTube Resources
+
+</div>
+
+✅ Helps learners prepare platform-specific questions easily.  
+✅ Makes contest and interview preparation more organized.
+
+---
+
+<div align="center">
+
+🚀 Learn DSA your way.
+
+</div>
 
 # 📖 Learning Sections
 
