@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/USERNAME/DSA?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/Swarup2608/DSA?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-C%2B%2B%20%7C%20Java%20%7C%20Python%20%7C%20JavaScript-blue?style=for-the-badge)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-blue?style=for-the-badge)
