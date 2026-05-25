@@ -470,19 +470,25 @@ DSA/
 > 📌 Placeholder: Detailed folder structure documentation will be added later.
 
 ---
-#  Multi-Dimensional Problem Organization
+
+# 🗂️ Multi-Dimensional Problem Organization
+
+<div align="center">
 
 ✨ Learn smarter, revise faster, and practice efficiently with multiple learning paths.
 
+</div>
 
-This repository organizes problems in **4 different ways** so every learner can prepare based on their goals, learning style, and preparation strategy.
+This repository organizes problems in **multiple different ways** so every learner can prepare based on their goals, learning style, and preparation strategy.
 
+---
 
 # 🧠 1. Topic Wise Learning
 
 Master concepts one topic at a time with structured progression.
 
 ### 📚 Includes
+
 - Arrays
 - Strings
 - Hashing
@@ -495,6 +501,15 @@ Master concepts one topic at a time with structured progression.
 - Backtracking
 - Bit Manipulation
 - And much more...
+
+### 📖 Each Topic Contains
+
+- Theory Notes
+- Visual Explanations
+- Patterns
+- Problems
+- Optimized Solutions
+- Multiple Language Implementations
 
 ✅ Best for concept building and deep understanding.
 
@@ -511,7 +526,8 @@ Practice problems based on difficulty level.
 </div>
 
 ✅ Perfect for beginners to advanced learners.  
-✅ Helps in step-by-step progression.
+✅ Helps in step-by-step progression.  
+✅ Useful for interview and contest preparation.
 
 ---
 
@@ -520,20 +536,26 @@ Practice problems based on difficulty level.
 Curated problems based on preparation goals.
 
 ## 💼 Interview Important
+
 - Frequently asked interview questions
 - FAANG/Product company problems
 - Pattern-based interview questions
+- Blind 75 / NeetCode Style Problems
 
 ## 🎓 Exam Important
+
 - University important questions
 - Core DSA academic problems
 - Theory + coding focused questions
+- Revision focused questions
 
 ## 🧠 Sharpness Important
+
 - Logical thinking problems
 - Brainstorming challenges
 - Pattern recognition questions
 - Speed building exercises
+- Problem solving enhancement
 
 ✅ Best for targeted preparation.
 
@@ -549,69 +571,33 @@ LeetCode • GeeksForGeeks • NeetCode • Codeforces • CodeChef • AtCoder 
 
 </div>
 
+### 📚 Includes
+
+- Platform Wise Questions
+- Contest Problems
+- Curated Sheets
+- Topic Based Lists
+- Interview Focused Problems
+- Editorials & Solutions
+
 ✅ Helps learners prepare platform-specific questions easily.  
 ✅ Makes contest and interview preparation more organized.
 
 ---
 
-<div align="center">
-
-🚀 Learn DSA your way.
-
-</div>
-
-# 📖 Learning Sections
-
-# 🧠 Topic Wise Learning
-
-Learn concepts one topic at a time with:
-
-* Theory Notes
-* Visual Explanations
-* Patterns
-* Problems
-* Optimized Solutions
-* Multiple Language Implementations
-
----
-
-# 🎯 Difficulty Wise Problems
-
-Problems categorized into:
-
-* 🟢 Easy
-* 🟡 Medium
-* 🔴 Hard
-
-Perfect for structured progression.
-
----
-
-# 🌐 Platform Wise Preparation
-
-Problems organized from platforms like:
-
-* LeetCode
-* Codeforces
-* CodeChef
-* AtCoder
-* GeeksForGeeks
-* HackerRank
-* CSES
-
----
-
-# ⏳ Time Importance Wise Preparation
+# 📅 5. Time Based Preparation
 
 Structured learning paths based on available preparation time.
 
-Examples:
+### 🚀 Examples
 
-* 📅 7 Days DSA Revision
-* 📅 30 Days DSA Challenge
-* 📅 60 Days Placement Preparation
-* 📅 90 Days Interview Preparation
-* 📅 Last Minute Revision Sheets
+- 📅 7 Days DSA Revision
+- 📅 30 Days DSA Challenge
+- 📅 60 Days Placement Preparation
+- 📅 90 Days Interview Preparation
+- 📅 Last Minute Revision Sheets
+
+✅ Best for fast-track preparation and revision.
 
 ---
 
