@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Swarup2608/DSA?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/USERNAME/DSA?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-C%2B%2B%20%7C%20Java%20%7C%20Python%20%7C%20JavaScript-blue?style=for-the-badge)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-blue?style=for-the-badge)
@@ -82,88 +82,364 @@ This repository aims to provide a structured, visual, and beginner-friendly lear
 
 # 🧭 Complete Learning Roadmap
 
-## 🌱 Beginner Phase
+# 🌱 Phase 1: C++ Programming Fundamentals
 
-* Programming Basics (C++)
+## ⚙️ Basics of C++
+
+* Compilation Process
+* Structure of a C++ Program
+* `#include`
+* `main()` Function
+* `return 0`
+* `namespace std`
+
+---
+
+## 🧮 Variables & Data Types
+
+* Variables
+* Constants
+* Data Types
 * Input / Output
-* Variables & Data Types
-* Loops
-* Functions
-* Arrays
-* Strings
-* Recursion Basics
-* Time & Space Complexity
+* Type Casting
 
 ---
 
-## 🚀 Intermediate DSA Phase
+## ➕ Operators
 
-* Arrays
-* Strings
-* Linked Lists
-* Stacks
-* Queues
-* Hashing
-* Sliding Window
-* Two Pointer
+* Arithmetic Operators
+* Relational Operators
+* Logical Operators
+* Assignment Operators
+* Increment / Decrement Operators
+
+---
+
+## 🔀 Conditionals
+
+* `if`
+* `if-else`
+* Nested `if`
+* `switch`
+* Ternary Operator
+
+---
+
+## 🔁 Loops
+
+* `for` Loop
+* `while` Loop
+* `do-while`
+* Nested Loops
+* `break`
+* `continue`
+* Pattern Printing
+
+---
+
+## 🧠 Functions
+
+* Function Declaration
+* Function Definition
+* Parameters & Return Types
+* Default Arguments
+* Function Overloading
+* Recursion
+* Base Case & Recursive Case
+
+---
+
+## 📦 Arrays & Strings
+
+### 1D Arrays
+
+* Traversal
+* Input / Output
+* Frequency Counting
+* Prefix Sums
+
+### 2D Arrays
+
+* Basics
+* Matrix Traversal
+
+### Strings
+
+* C Style Strings
+* `string` Class
+* Common String Methods
+* String Manipulation
+* Character Classification
+
+---
+
+## 🧠 Memory Management
+
+* Memory Address
+* Pointers
+* Dereferencing
+* Pointer Arithmetic
+* References
+* Pass By Reference
+* Dynamic Memory Allocation
+
+---
+
+## 🏗️ Object Oriented Programming
+
+* Classes & Objects
+* Access Modifiers
+* Constructors
+* Destructors
+* `this` Pointer
+* Static Members
+
+### Inheritance
+
+* Single Inheritance
+* Multilevel Inheritance
+* Method Overriding
+* Virtual Functions
+* Abstract Classes
+
+---
+
+## 📚 STL (Standard Template Library)
+
+* Vector
+* Pair
+* Iterators
+* Range Based Loops
+* Sort
+* Reverse
 * Binary Search
-* Trees
-* BST
-* Heaps
-* Tries
-* Graphs
-* Greedy Algorithms
-* Backtracking
-* Dynamic Programming
+
+### STL Containers
+
+* Stack
+* Queue
+* Deque
+* Priority Queue
+* Set
+* Unordered Set
+* Map
+* Unordered Map
 
 ---
 
-## 🔥 Advanced Phase
+## 🧩 Advanced C++
 
-* Advanced Graph Algorithms
-* Segment Trees
-* Fenwick Trees
-* Disjoint Set Union
+* Templates
+* Function Templates
+* Class Templates
+* Exception Handling
+* Competitive Programming Setup
+* Fast I/O
+
+---
+
+# 🚀 Phase 2: Deep Dive Into DSA
+
+> 🎯 Goal: Solve 400+ carefully selected problems with explanations, patterns, optimized solutions, and multiple approaches.
+
+---
+
+# 📘 Arrays
+
+* Array Basics
+* Complexity Analysis
+* Traversal
+* Prefix Sums
+* Kadane’s Algorithm
+* Rotate Array
+* Rearrangement Problems
+* Frequency Counting
+* Subarray Problems
+* Prefix & Suffix Techniques
+
+---
+
+# 🔤 Strings
+
+* String Basics
+* String Traversal
+* String Manipulation
+* Palindrome Problems
+* Anagram Problems
+* Pattern Matching
+* Substring Problems
+
+---
+
+# #️⃣ Hashing
+
+* HashMaps
+* HashSets
+* Frequency Maps
+* Common Hashing Patterns
+* Duplicate Detection
+* Prefix Hashing
+
+---
+
+# 👯 Two Pointers
+
+* Valid Palindrome
+* Pair Sum Problems
+* Merge Arrays
+* Sorted Array Techniques
+* Container Problems
+
+---
+
+# 🪟 Sliding Window
+
+* Fixed Size Window
+* Variable Size Window
+* Maximum Sum Problems
+* Longest Substring Problems
+* Frequency Based Windows
+
+---
+
+# 🔍 Binary Search
+
+* Binary Search Basics
+* Search Space Problems
+* Lower Bound / Upper Bound
+* Binary Search on Answer
+
+---
+
+# ♻️ Recursion & Backtracking
+
+## Recursion
+
+* Recursive Thinking
+* Recursive Subsets
+* Recursive Patterns
+
+## Backtracking
+
+* Combinations
+* Permutations
+* N Queens
+* Sudoku Solver
+* Decision Trees
+
+---
+
+# 🔗 Linked Lists
+
+* Reverse Linked List
+* Middle Node
+* Cycle Detection
+* Merge Lists
+* Fast & Slow Pointer
+* Doubly Linked List
+
+---
+
+# 📚 Stack & Queue
+
+## Stack
+
+* Stack Basics
+* Monotonic Stack
+* Next Greater Element
+* Expression Problems
+
+## Queue
+
+* Queue Basics
+* Queue Using Stack
+* Circular Queue
+* Deque Problems
+
+---
+
+# 🌳 Trees
+
+## Tree Fundamentals
+
+* Tree Terminology
+* DFS Traversals
+* Preorder
+* Inorder
+* Postorder
+* Level Order Traversal
+
+## BST
+
+* BST Search
+* BST Insertion
+* Validate BST
+* BST Problems
+
+## Heaps
+
+* Heap Fundamentals
+* Priority Queue
+* Top K Elements
+* Heap Based Problems
+
+---
+
+# 🌐 Graphs
+
+## Graph Basics
+
+* BFS
+* DFS
+* Connected Components
+* Cycle Detection
+* Topological Sort
+
+## Advanced Graphs
+
+* Dijkstra’s Algorithm
+* Union Find / DSU
+* Shortest Path
+* Minimum Spanning Tree
+
+---
+
+# ⚡ Dynamic Programming
+
+* DP Basics
+* Memoization
+* Tabulation
+* 1D DP
+* 2D DP
+* Knapsack
+* LIS
+* Partition DP
+* DP on Trees
+* Advanced DP Patterns
+
+---
+
+# 🏆 Competitive Programming
+
+* CP Templates
+* STL Tricks
+* Fast Input Output
+* Math Tricks
 * Bit Manipulation
-* Advanced Dynamic Programming
 * Number Theory
-* Competitive Programming Patterns
+* Contest Strategies
+* Upsolving Techniques
 
 ---
 
-## 🎯 Interview Preparation
+# 🎯 Interview Preparation
 
 * Blind 75
 * NeetCode Roadmap
 * Striver Sheet
-* Top Interview Questions
 * Company Wise Questions
-* Behavioral Preparation
+* Pattern Based Revision
 * Mock Interviews
-
----
-
-## 🏆 Competitive Programming
-
-* Codeforces
-* CodeChef
-* LeetCode Contests
-* AtCoder
-* CSES Problem Set
-* Contest Upsolving
-* Rating Improvement Resources
-
----
-
-## 🏗️ Computer Science Fundamentals
-
-* OOPs
-* DBMS
-* Operating Systems
-* Computer Networks
-* System Design
-* Low Level Design
-* High Level Design
 
 ---
 
@@ -438,3 +714,4 @@ The goal of this repository is simple:
 Made with ❤️ for the developer community.
 
 </div>
+
