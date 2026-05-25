@@ -1,0 +1,532 @@
+# 📊 Progress Tracker
+
+Track your complete journey from C++ fundamentals to advanced DSA, competitive programming, and interview preparation.
+
+---
+
+# 🚀 Learning Progress Dashboard
+
+# 🌱 C++ Fundamentals
+
+## ⚙️ Basics
+- [ ] Compilation Process
+- [ ] Structure of C++ Program
+- [ ] `#include`
+- [ ] `main()`
+- [ ] `return 0`
+- [ ] `namespace std`
+
+---
+
+## 🧮 Variables & Data Types
+- [ ] Variables
+- [ ] Constants
+- [ ] Data Types
+- [ ] Input / Output
+- [ ] Type Casting
+
+---
+
+## ➕ Operators
+- [ ] Arithmetic Operators
+- [ ] Relational Operators
+- [ ] Logical Operators
+- [ ] Assignment Operators
+- [ ] Increment / Decrement Operators
+
+---
+
+## 🔀 Conditionals
+- [ ] if
+- [ ] if-else
+- [ ] Nested if
+- [ ] switch
+- [ ] Ternary Operator
+
+---
+
+## 🔁 Loops
+- [ ] for Loop
+- [ ] while Loop
+- [ ] do-while
+- [ ] break & continue
+- [ ] Nested Loops
+- [ ] Pattern Printing
+
+---
+
+# 🧠 Functions & Recursion
+
+## 📦 Functions
+- [ ] Function Declaration
+- [ ] Function Definition
+- [ ] Parameters & Return Types
+- [ ] Default Arguments
+- [ ] Function Overloading
+
+## ♻️ Recursion
+- [ ] Base Case
+- [ ] Recursive Case
+- [ ] Recursive Thinking
+- [ ] Recursive Problems
+- [ ] Recursive Subsets
+
+---
+
+# 📚 Arrays & Strings
+
+## 📘 Arrays
+- [ ] 1D Arrays
+- [ ] Traversal
+- [ ] Prefix Sums
+- [ ] Frequency Counting
+- [ ] 2D Arrays
+- [ ] Matrix Traversal
+
+## 🔤 Strings
+- [ ] C Style Strings
+- [ ] String Methods
+- [ ] String Manipulation
+- [ ] Character Classification
+
+---
+
+# 🧠 Memory Management
+
+- [ ] Memory Address
+- [ ] Pointers
+- [ ] Dereferencing
+- [ ] Pointer Arithmetic
+- [ ] References
+- [ ] Pass By Reference
+- [ ] Dynamic Memory Allocation
+
+---
+
+# 🏗️ Object Oriented Programming
+
+## 🧩 OOP Concepts
+- [ ] Classes & Objects
+- [ ] Access Modifiers
+- [ ] Constructors
+- [ ] Destructors
+- [ ] this Pointer
+- [ ] Static Members
+
+## 🧬 Inheritance & Polymorphism
+- [ ] Single Inheritance
+- [ ] Multilevel Inheritance
+- [ ] Method Overriding
+- [ ] Virtual Functions
+- [ ] Abstract Classes
+
+---
+
+# 📦 STL (Standard Template Library)
+
+## 📚 Containers
+- [ ] Vector
+- [ ] Pair
+- [ ] Stack
+- [ ] Queue
+- [ ] Deque
+- [ ] Priority Queue
+- [ ] Set
+- [ ] Unordered Set
+- [ ] Map
+- [ ] Unordered Map
+
+## ⚡ STL Utilities
+- [ ] Iterators
+- [ ] Range Based Loops
+- [ ] sort()
+- [ ] reverse()
+- [ ] binary_search()
+
+---
+
+# 🏆 Competitive Programming Setup
+
+- [ ] Fast I/O
+- [ ] Templates
+- [ ] Function Templates
+- [ ] Class Templates
+- [ ] Exception Handling
+- [ ] CP Template Setup
+- [ ] STL Tricks
+- [ ] Bit Manipulation
+- [ ] Number Theory Basics
+
+---
+
+# 🚀 DSA Mastery Tracker
+
+# 📘 Arrays
+- [ ] Array Basics
+- [ ] Traversal
+- [ ] Prefix Sum
+- [ ] Kadane’s Algorithm
+- [ ] Rotate Array
+- [ ] Rearrangement Problems
+- [ ] Subarray Problems
+- [ ] Prefix & Suffix Patterns
+
+### 🎯 Problem Goal
+- [ ] Solve 40+ Array Problems
+
+---
+
+# 🔤 Strings
+- [ ] String Basics
+- [ ] Palindrome Problems
+- [ ] Anagram Problems
+- [ ] Pattern Matching
+- [ ] Substring Problems
+
+### 🎯 Problem Goal
+- [ ] Solve 30+ String Problems
+
+---
+
+# #️⃣ Hashing
+- [ ] HashMaps
+- [ ] HashSets
+- [ ] Frequency Maps
+- [ ] Duplicate Detection
+- [ ] Prefix Hashing
+
+### 🎯 Problem Goal
+- [ ] Solve 25+ Hashing Problems
+
+---
+
+# 👯 Two Pointers
+- [ ] Valid Palindrome
+- [ ] Pair Sum
+- [ ] Merge Arrays
+- [ ] Container Problems
+
+### 🎯 Problem Goal
+- [ ] Solve 20+ Two Pointer Problems
+
+---
+
+# 🪟 Sliding Window
+- [ ] Fixed Size Window
+- [ ] Variable Size Window
+- [ ] Maximum Sum Problems
+- [ ] Longest Substring Problems
+
+### 🎯 Problem Goal
+- [ ] Solve 25+ Sliding Window Problems
+
+---
+
+# 🔍 Binary Search
+- [ ] Binary Search Basics
+- [ ] Lower Bound / Upper Bound
+- [ ] Search Space Problems
+- [ ] Binary Search on Answer
+
+### 🎯 Problem Goal
+- [ ] Solve 25+ Binary Search Problems
+
+---
+
+# ♻️ Recursion & Backtracking
+
+## ♻️ Recursion
+- [ ] Recursive Thinking
+- [ ] Recursive Patterns
+- [ ] Recursive Subsets
+
+## 🔥 Backtracking
+- [ ] Combinations
+- [ ] Permutations
+- [ ] N Queens
+- [ ] Sudoku Solver
+
+### 🎯 Problem Goal
+- [ ] Solve 35+ Recursion & Backtracking Problems
+
+---
+
+# 🔗 Linked List
+- [ ] Reverse Linked List
+- [ ] Middle Node
+- [ ] Cycle Detection
+- [ ] Merge Lists
+- [ ] Fast & Slow Pointer
+- [ ] Doubly Linked List
+
+### 🎯 Problem Goal
+- [ ] Solve 30+ Linked List Problems
+
+---
+
+# 📚 Stack & Queue
+
+## 📚 Stack
+- [ ] Monotonic Stack
+- [ ] Next Greater Element
+- [ ] Expression Problems
+
+## 🚶 Queue
+- [ ] Queue Using Stack
+- [ ] Circular Queue
+- [ ] Deque Problems
+
+### 🎯 Problem Goal
+- [ ] Solve 35+ Stack & Queue Problems
+
+---
+
+# 🌳 Trees
+
+## 🌱 Tree Basics
+- [ ] Tree Terminology
+- [ ] DFS Traversals
+- [ ] Preorder
+- [ ] Inorder
+- [ ] Postorder
+- [ ] Level Order Traversal
+
+## 🌲 BST
+- [ ] BST Search
+- [ ] BST Insertion
+- [ ] Validate BST
+
+## ⛰️ Heaps
+- [ ] Heap Fundamentals
+- [ ] Top K Elements
+- [ ] Heap Problems
+
+### 🎯 Problem Goal
+- [ ] Solve 50+ Tree Problems
+
+---
+
+# 🌐 Graphs
+
+## 🌍 Graph Basics
+- [ ] BFS
+- [ ] DFS
+- [ ] Connected Components
+- [ ] Cycle Detection
+- [ ] Topological Sort
+
+## 🚀 Advanced Graphs
+- [ ] Dijkstra’s Algorithm
+- [ ] Union Find / DSU
+- [ ] Shortest Path
+- [ ] MST Problems
+
+### 🎯 Problem Goal
+- [ ] Solve 40+ Graph Problems
+
+---
+
+# ⚡ Dynamic Programming
+
+- [ ] Memoization
+- [ ] Tabulation
+- [ ] 1D DP
+- [ ] 2D DP
+- [ ] Knapsack
+- [ ] LIS
+- [ ] Partition DP
+- [ ] DP on Trees
+
+### 🎯 Problem Goal
+- [ ] Solve 60+ DP Problems
+
+---
+
+# 🎤 Interview Preparation
+
+- [ ] Blind 75
+- [ ] NeetCode Roadmap
+- [ ] Striver Sheet
+- [ ] Company Wise Questions
+- [ ] Mock Interviews
+- [ ] Revision Sheets
+
+---
+
+# 🏆 Competitive Programming
+
+- [ ] Codeforces Contests
+- [ ] LeetCode Contests
+- [ ] CodeChef Contests
+- [ ] Contest Upsolving
+- [ ] CP Templates
+- [ ] Speed Improvement
+
+---
+
+# 🎯 Overall Repository Goals
+
+- [ ] Complete C++ Fundamentals
+- [ ] Solve 400+ DSA Problems
+- [ ] Complete Interview Preparation
+- [ ] Participate in Contests Regularly
+- [ ] Build Strong Problem Solving Skills
+- [ ] Master Data Structures & Algorithms
+
+---
+# ➕ Additional Important Topics To Include
+
+These are some important DSA and competitive programming topics worth adding for better coverage and stronger problem-solving skills.
+
+---
+
+# 📘 Arrays
+- [ ] Difference Array
+- [ ] Dutch National Flag Algorithm
+- [ ] Moore’s Voting Algorithm
+- [ ] Merge Intervals
+- [ ] Cyclic Sort
+- [ ] Matrix Problems
+- [ ] Spiral Traversal
+
+---
+
+# 🔤 Strings
+- [ ] Rabin Karp
+- [ ] KMP Algorithm
+- [ ] Z Algorithm
+- [ ] String Hashing
+- [ ] Trie Based String Problems
+
+---
+
+# #️⃣ Hashing
+- [ ] Rolling Hash
+- [ ] Custom Hashing
+- [ ] Prefix Hashing
+
+---
+
+# 👯 Two Pointers & Sliding Window
+- [ ] Dutch Partition Problems
+- [ ] Longest Repeating Character Replacement
+- [ ] Minimum Window Substring
+- [ ] Sliding Window with Hashing
+
+---
+
+# 🔍 Binary Search
+- [ ] Binary Search on Matrix
+- [ ] Peak Element Problems
+- [ ] Rotated Sorted Array
+- [ ] Ternary Search
+- [ ] Aggressive Cows / Allocation Problems
+
+---
+
+# ♻️ Recursion & Backtracking
+- [ ] Rat in a Maze
+- [ ] Word Search
+- [ ] Palindrome Partitioning
+- [ ] Subset Sum
+- [ ] Combination Sum
+
+---
+
+# 🔗 Linked List
+- [ ] LRU Cache
+- [ ] Flatten Linked List
+- [ ] Clone Linked List
+- [ ] Intersection of Linked Lists
+
+---
+
+# 📚 Stack & Queue
+- [ ] Min Stack
+- [ ] Stock Span Problem
+- [ ] Largest Rectangle in Histogram
+- [ ] Sliding Window Maximum
+
+---
+
+# 🌳 Trees
+- [ ] Diameter of Tree
+- [ ] Lowest Common Ancestor
+- [ ] Balanced Binary Tree
+- [ ] Boundary Traversal
+- [ ] Vertical Order Traversal
+- [ ] Binary Lifting
+- [ ] Segment Trees
+- [ ] Fenwick Tree / BIT
+
+---
+
+# 🌐 Graphs
+- [ ] Bipartite Graph
+- [ ] Floyd Warshall
+- [ ] Bellman Ford
+- [ ] Kosaraju Algorithm
+- [ ] Bridges & Articulation Points
+- [ ] SCC (Strongly Connected Components)
+- [ ] 0-1 BFS
+- [ ] Multi Source BFS
+
+---
+
+# ⚡ Dynamic Programming
+- [ ] Digit DP
+- [ ] Bitmask DP
+- [ ] Interval DP
+- [ ] Matrix Chain Multiplication
+- [ ] State DP
+- [ ] DP Optimization Techniques
+
+---
+
+# 🧠 Greedy Algorithms
+- [ ] Activity Selection
+- [ ] Huffman Encoding
+- [ ] Fractional Knapsack
+- [ ] Job Sequencing
+- [ ] Greedy Proof Concepts
+
+---
+
+# 🧩 Bit Manipulation
+- [ ] XOR Problems
+- [ ] Bit Masking
+- [ ] Power of Two Problems
+- [ ] Subset Generation
+- [ ] Fast Exponentiation
+
+---
+
+# 🔢 Math & Number Theory
+- [ ] Prime Numbers
+- [ ] Sieve of Eratosthenes
+- [ ] GCD & LCM
+- [ ] Modular Arithmetic
+- [ ] Modular Exponentiation
+- [ ] Combinatorics
+- [ ] Probability Basics
+
+---
+
+# 🏆 Competitive Programming
+- [ ] Time Complexity Optimization
+- [ ] STL Advanced Tricks
+- [ ] Debugging Techniques
+- [ ] CP Templates
+- [ ] Interactive Problems
+- [ ] Constructive Algorithms
+
+---
+
+# 🎯 Interview Preparation
+- [ ] Pattern Recognition
+- [ ] Problem Solving Frameworks
+- [ ] Brute Force → Better → Optimal Approach
+- [ ] Dry Run Techniques
+- [ ] Communication During Interviews
+
+---
