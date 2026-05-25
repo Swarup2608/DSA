@@ -470,17 +470,13 @@ DSA/
 > 📌 Placeholder: Detailed folder structure documentation will be added later.
 
 ---
-# 🗂️ Multi-Dimensional Problem Organization
-
-<div align="center">
+#  Multi-Dimensional Problem Organization
 
 ✨ Learn smarter, revise faster, and practice efficiently with multiple learning paths.
 
-</div>
 
 This repository organizes problems in **4 different ways** so every learner can prepare based on their goals, learning style, and preparation strategy.
 
----
 
 # 🧠 1. Topic Wise Learning
 
