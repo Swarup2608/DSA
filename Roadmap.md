@@ -110,7 +110,7 @@ But:
 # ⚙️ C++ FUNDAMENTALS
 
 ## Basics
-- [ ] Compilation Process
+- [x] Compilation Process
 - [ ] Structure of Program
 - [ ] Variables
 - [ ] Constants
