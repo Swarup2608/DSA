@@ -9,7 +9,7 @@ Track your complete journey from C++ fundamentals to advanced DSA, competitive p
 # 🌱 C++ Fundamentals
 
 ## ⚙️ Basics
-- [ ] Compilation Process
+- [x] Compilation Process
 - [ ] Structure of C++ Program
 - [ ] `#include`
 - [ ] `main()`
