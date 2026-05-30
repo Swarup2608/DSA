@@ -111,7 +111,7 @@ But:
 
 ## Basics
 - [x] Compilation Process
-- [ ] Structure of Program
+- [x] Structure of Program
 - [ ] Variables
 - [ ] Constants
 - [ ] Data Types
