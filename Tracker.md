@@ -11,10 +11,10 @@ Track your complete journey from C++ fundamentals to advanced DSA, competitive p
 ## ⚙️ Basics
 - [x] Compilation Process
 - [x] Structure of C++ Program
-- [ ] `#include`
-- [ ] `main()`
-- [ ] `return 0`
-- [ ] `namespace std`
+- [x] `#include`
+- [x] `main()`
+- [x] `return 0`
+- [x] `namespace std`
 
 ---
 
