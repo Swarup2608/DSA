@@ -24,22 +24,22 @@ From absolute basics → advanced problem solving → interviews → contests �
 
 This repository is built for anyone who wants to learn:
 
-* 📘 Data Structures & Algorithms
-* 💻 Competitive Programming
-* 🎯 Interview Preparation
-* 🧠 Problem Solving
-* ⚡ Coding Patterns
-* 🏗️ System Design Basics
-* 🧩 Core CS Subjects
+- 📘 Data Structures & Algorithms
+- 💻 Competitive Programming
+- 🎯 Interview Preparation
+- 🧠 Problem Solving
+- ⚡ Coding Patterns
+- 🏗️ System Design Basics
+- 🧩 Core CS Subjects
 
 Whether you are:
 
-* A complete beginner
-* A college student
-* Preparing for placements
-* Preparing for FAANG/product companies
-* Practicing competitive programming
-* Revising DSA quickly
+- A complete beginner
+- A college student
+- Preparing for placements
+- Preparing for FAANG/product companies
+- Practicing competitive programming
+- Revising DSA quickly
 
 This repository aims to provide a structured, visual, and beginner-friendly learning experience.
 
@@ -67,174 +67,159 @@ This repository aims to provide a structured, visual, and beginner-friendly lear
 
 ## 🛠️ Programming Basics
 
-* C++
+- Java
 
 ## 💻 Problem Solutions Available In
 
-* C++
-* Java
-* Python
-* JavaScript
+- C++
+- Java
+- Python
+- JavaScript
 
-> ⚠️ Note: Initial programming fundamentals and core explanations are focused on C++ for simplicity and consistency.
+> ⚠️ Note: Initial programming fundamentals and core explanations are focused on Java for simplicity and consistency.
 
 ---
 
 # 🧭 Complete Learning Roadmap
 
-# 🌱 Phase 1: C++ Programming Fundamentals
+# 🌱 Phase 1: Java Programming Fundamentals
 
-## ⚙️ Basics of C++
+## ⚙️ Basics of Java
 
-* Compilation Process
-* Structure of a C++ Program
-* `#include`
-* `main()` Function
-* `return 0`
-* `namespace std`
+- Structure of a Java Program
+- `class` and `public static void main`
+- Compilation & Execution (`javac` / `java`)
+- Basic Syntax
+- Comments
+- Statements & Blocks
+- Identifiers & Keywords
 
 ---
 
 ## 🧮 Variables & Data Types
 
-* Variables
-* Constants
-* Data Types
-* Input / Output
-* Type Casting
+- Variables
+- Constants (`final`)
+- Primitive Data Types
+- Reference Data Types
+- Input / Output (`Scanner`, `System.out`)
+- Type Casting (Implicit / Explicit)
 
 ---
 
 ## ➕ Operators
 
-* Arithmetic Operators
-* Relational Operators
-* Logical Operators
-* Assignment Operators
-* Increment / Decrement Operators
+- Arithmetic Operators
+- Relational Operators
+- Logical Operators
+- Assignment Operators
+- Increment / Decrement Operators
 
 ---
 
 ## 🔀 Conditionals
 
-* `if`
-* `if-else`
-* Nested `if`
-* `switch`
-* Ternary Operator
+- `if`
+- `if-else`
+- Nested `if`
+- `switch`
+- Ternary Operator
 
 ---
 
 ## 🔁 Loops
 
-* `for` Loop
-* `while` Loop
-* `do-while`
-* Nested Loops
-* `break`
-* `continue`
-* Pattern Printing
+- `for` Loop
+- `while` Loop
+- `do-while`
+- Nested Loops
+- `break`
+- `continue`
+- Pattern Printing
 
 ---
 
 ## 🧠 Functions
 
-* Function Declaration
-* Function Definition
-* Parameters & Return Types
-* Default Arguments
-* Function Overloading
-* Recursion
-* Base Case & Recursive Case
-
----
-
-## 📦 Arrays & Strings
-
-### 1D Arrays
-
-* Traversal
-* Input / Output
-* Frequency Counting
-* Prefix Sums
-
-### 2D Arrays
-
-* Basics
-* Matrix Traversal
-
-### Strings
-
-* C Style Strings
-* `string` Class
-* Common String Methods
-* String Manipulation
-* Character Classification
-
----
-
-## 🧠 Memory Management
-
-* Memory Address
-* Pointers
-* Dereferencing
-* Pointer Arithmetic
-* References
-* Pass By Reference
-* Dynamic Memory Allocation
+- Method Declaration
+- Method Definition
+- Parameters & Return Types
+- Method Overloading
+- Recursion
+- Base Case & Recursive Case
 
 ---
 
 ## 🏗️ Object Oriented Programming
 
-* Classes & Objects
-* Access Modifiers
-* Constructors
-* Destructors
-* `this` Pointer
-* Static Members
-
-### Inheritance
-
-* Single Inheritance
-* Multilevel Inheritance
-* Method Overriding
-* Virtual Functions
-* Abstract Classes
+- Classes & Objects
+- Access Modifiers
+- Constructors
+- `this` Keyword
+- Static Members
+- Encapsulation
+- Abstraction
+- Inheritance
+- Polymorphism
+- Method Overriding
+- Abstract Classes & Interfaces
 
 ---
 
-## 📚 STL (Standard Template Library)
+## 📦 Collections
 
-* Vector
-* Pair
-* Iterators
-* Range Based Loops
-* Sort
-* Reverse
-* Binary Search
-
-### STL Containers
-
-* Stack
-* Queue
-* Deque
-* Priority Queue
-* Set
-* Unordered Set
-* Map
-* Unordered Map
+- Collection Framework Overview
+- List (`ArrayList`, `LinkedList`)
+- Set (`HashSet`, `LinkedHashSet`, `TreeSet`)
+- Map (`HashMap`, `LinkedHashMap`, `TreeMap`)
+- Queue & Deque
+- Stack
+- Iterators
+- Comparable & Comparator
+- Collections Utility Class
 
 ---
 
-## 🧩 Advanced C++
+## ⚠️ Exception Handling
 
-* Templates
-* Function Templates
-* Class Templates
-* Exception Handling
-* Competitive Programming Setup
-* Fast I/O
+- `try-catch-finally`
+- Checked vs Unchecked Exceptions
+- `throw` and `throws`
+- Custom Exceptions
+- Multi-catch Blocks
+- try-with-resources
+
+---
+
+## 🔗 Lambdas & Functional Interfaces
+
+- Lambda Expressions
+- Functional Interfaces
+- `Runnable`, `Comparator`, `Predicate`, `Function`, `Consumer`, `Supplier`
+- Method References
+- Streams API Basics
+
+---
+
+## 🧬 Generics
+
+- Generic Classes
+- Generic Methods
+- Bounded Type Parameters
+- Wildcards (`?`, `extends`, `super`)
+
+---
+
+## 🧵 Multithreading & Concurrency
+
+- Threads & the `Thread` Class
+- `Runnable` Interface
+- Thread Lifecycle
+- Synchronization
+- `wait()`, `notify()`, `notifyAll()`
+- Executor Framework
+- Concurrent Collections
+- `volatile` & Atomic Variables
 
 ---
 
@@ -246,68 +231,68 @@ This repository aims to provide a structured, visual, and beginner-friendly lear
 
 # 📘 Arrays
 
-* Array Basics
-* Complexity Analysis
-* Traversal
-* Prefix Sums
-* Kadane’s Algorithm
-* Rotate Array
-* Rearrangement Problems
-* Frequency Counting
-* Subarray Problems
-* Prefix & Suffix Techniques
+- Array Basics
+- Complexity Analysis
+- Traversal
+- Prefix Sums
+- Kadane’s Algorithm
+- Rotate Array
+- Rearrangement Problems
+- Frequency Counting
+- Subarray Problems
+- Prefix & Suffix Techniques
 
 ---
 
 # 🔤 Strings
 
-* String Basics
-* String Traversal
-* String Manipulation
-* Palindrome Problems
-* Anagram Problems
-* Pattern Matching
-* Substring Problems
+- String Basics
+- String Traversal
+- String Manipulation
+- Palindrome Problems
+- Anagram Problems
+- Pattern Matching
+- Substring Problems
 
 ---
 
 # #️⃣ Hashing
 
-* HashMaps
-* HashSets
-* Frequency Maps
-* Common Hashing Patterns
-* Duplicate Detection
-* Prefix Hashing
+- HashMaps
+- HashSets
+- Frequency Maps
+- Common Hashing Patterns
+- Duplicate Detection
+- Prefix Hashing
 
 ---
 
 # 👯 Two Pointers
 
-* Valid Palindrome
-* Pair Sum Problems
-* Merge Arrays
-* Sorted Array Techniques
-* Container Problems
+- Valid Palindrome
+- Pair Sum Problems
+- Merge Arrays
+- Sorted Array Techniques
+- Container Problems
 
 ---
 
 # 🪟 Sliding Window
 
-* Fixed Size Window
-* Variable Size Window
-* Maximum Sum Problems
-* Longest Substring Problems
-* Frequency Based Windows
+- Fixed Size Window
+- Variable Size Window
+- Maximum Sum Problems
+- Longest Substring Problems
+- Frequency Based Windows
 
 ---
 
 # 🔍 Binary Search
 
-* Binary Search Basics
-* Search Space Problems
-* Lower Bound / Upper Bound
-* Binary Search on Answer
+- Binary Search Basics
+- Search Space Problems
+- Lower Bound / Upper Bound
+- Binary Search on Answer
 
 ---
 
@@ -315,28 +300,28 @@ This repository aims to provide a structured, visual, and beginner-friendly lear
 
 ## Recursion
 
-* Recursive Thinking
-* Recursive Subsets
-* Recursive Patterns
+- Recursive Thinking
+- Recursive Subsets
+- Recursive Patterns
 
 ## Backtracking
 
-* Combinations
-* Permutations
-* N Queens
-* Sudoku Solver
-* Decision Trees
+- Combinations
+- Permutations
+- N Queens
+- Sudoku Solver
+- Decision Trees
 
 ---
 
 # 🔗 Linked Lists
 
-* Reverse Linked List
-* Middle Node
-* Cycle Detection
-* Merge Lists
-* Fast & Slow Pointer
-* Doubly Linked List
+- Reverse Linked List
+- Middle Node
+- Cycle Detection
+- Merge Lists
+- Fast & Slow Pointer
+- Doubly Linked List
 
 ---
 
@@ -344,17 +329,17 @@ This repository aims to provide a structured, visual, and beginner-friendly lear
 
 ## Stack
 
-* Stack Basics
-* Monotonic Stack
-* Next Greater Element
-* Expression Problems
+- Stack Basics
+- Monotonic Stack
+- Next Greater Element
+- Expression Problems
 
 ## Queue
 
-* Queue Basics
-* Queue Using Stack
-* Circular Queue
-* Deque Problems
+- Queue Basics
+- Queue Using Stack
+- Circular Queue
+- Deque Problems
 
 ---
 
@@ -362,26 +347,26 @@ This repository aims to provide a structured, visual, and beginner-friendly lear
 
 ## Tree Fundamentals
 
-* Tree Terminology
-* DFS Traversals
-* Preorder
-* Inorder
-* Postorder
-* Level Order Traversal
+- Tree Terminology
+- DFS Traversals
+- Preorder
+- Inorder
+- Postorder
+- Level Order Traversal
 
 ## BST
 
-* BST Search
-* BST Insertion
-* Validate BST
-* BST Problems
+- BST Search
+- BST Insertion
+- Validate BST
+- BST Problems
 
 ## Heaps
 
-* Heap Fundamentals
-* Priority Queue
-* Top K Elements
-* Heap Based Problems
+- Heap Fundamentals
+- Priority Queue
+- Top K Elements
+- Heap Based Problems
 
 ---
 
@@ -389,57 +374,57 @@ This repository aims to provide a structured, visual, and beginner-friendly lear
 
 ## Graph Basics
 
-* BFS
-* DFS
-* Connected Components
-* Cycle Detection
-* Topological Sort
+- BFS
+- DFS
+- Connected Components
+- Cycle Detection
+- Topological Sort
 
 ## Advanced Graphs
 
-* Dijkstra’s Algorithm
-* Union Find / DSU
-* Shortest Path
-* Minimum Spanning Tree
+- Dijkstra’s Algorithm
+- Union Find / DSU
+- Shortest Path
+- Minimum Spanning Tree
 
 ---
 
 # ⚡ Dynamic Programming
 
-* DP Basics
-* Memoization
-* Tabulation
-* 1D DP
-* 2D DP
-* Knapsack
-* LIS
-* Partition DP
-* DP on Trees
-* Advanced DP Patterns
+- DP Basics
+- Memoization
+- Tabulation
+- 1D DP
+- 2D DP
+- Knapsack
+- LIS
+- Partition DP
+- DP on Trees
+- Advanced DP Patterns
 
 ---
 
 # 🏆 Competitive Programming
 
-* CP Templates
-* STL Tricks
-* Fast Input Output
-* Math Tricks
-* Bit Manipulation
-* Number Theory
-* Contest Strategies
-* Upsolving Techniques
+- CP Templates
+- STL Tricks
+- Fast Input Output
+- Math Tricks
+- Bit Manipulation
+- Number Theory
+- Contest Strategies
+- Upsolving Techniques
 
 ---
 
 # 🎯 Interview Preparation
 
-* Blind 75
-* NeetCode Roadmap
-* Striver Sheet
-* Company Wise Questions
-* Pattern Based Revision
-* Mock Interviews
+- Blind 75
+- NeetCode Roadmap
+- Striver Sheet
+- Company Wise Questions
+- Pattern Based Revision
+- Mock Interviews
 
 ---
 
@@ -625,13 +610,13 @@ Track your learning journey.
 
 This repository will include:
 
-* 🎥 YouTube Playlists
-* 📘 Notes
-* 📄 Cheat Sheets
-* 🧠 Visual Diagrams
-* 📚 Blogs & Articles
-* 🧩 Practice Sheets
-* 🏆 Contest Resources
+- 🎥 YouTube Playlists
+- 📘 Notes
+- 📄 Cheat Sheets
+- 🧠 Visual Diagrams
+- 📚 Blogs & Articles
+- 🧩 Practice Sheets
+- 🏆 Contest Resources
 
 > 📌 Placeholder: Resource links will be added gradually.
 
@@ -641,13 +626,13 @@ This repository will include:
 
 Includes:
 
-* Contest Guides
-* Problem Solving Strategies
-* Templates
-* STL Guides
-* CP Tips & Tricks
-* Topic Based CP Problems
-* Contest Upsolving Notes
+- Contest Guides
+- Problem Solving Strategies
+- Templates
+- STL Guides
+- CP Tips & Tricks
+- Topic Based CP Problems
+- Contest Upsolving Notes
 
 ---
 
@@ -655,13 +640,13 @@ Includes:
 
 Includes:
 
-* Company Wise Questions
-* Frequently Asked Interview Problems
-* DSA Sheets
-* Resume Tips
-* Interview Experiences
-* HR Questions
-* Mock Preparation
+- Company Wise Questions
+- Frequently Asked Interview Problems
+- DSA Sheets
+- Resume Tips
+- Interview Experiences
+- HR Questions
+- Mock Preparation
 
 ---
 
@@ -669,15 +654,15 @@ Includes:
 
 Planned Topics:
 
-* Scalability Basics
-* Load Balancers
-* Databases
-* Caching
-* APIs
-* Rate Limiting
-* Message Queues
-* Distributed Systems
-* Real World Design Problems
+- Scalability Basics
+- Load Balancers
+- Databases
+- Caching
+- APIs
+- Rate Limiting
+- Message Queues
+- Distributed Systems
+- Real World Design Problems
 
 > 📌 Placeholder: Detailed System Design roadmap will be added.
 
@@ -689,14 +674,14 @@ Contributions are welcome!
 
 You can contribute by:
 
-* Adding notes
-* Adding optimized solutions
-* Improving explanations
-* Adding visual diagrams
-* Fixing bugs
-* Improving repository structure
-* Adding resources
-* Adding contest solutions
+- Adding notes
+- Adding optimized solutions
+- Improving explanations
+- Adding visual diagrams
+- Fixing bugs
+- Improving repository structure
+- Adding resources
+- Adding contest solutions
 
 > 📌 Placeholder: Detailed contribution guidelines will be added.
 
@@ -704,16 +689,16 @@ You can contribute by:
 
 # 🛣️ Future Plans
 
-* [ ] Interactive Visual Explanations
-* [ ] Dedicated Website
-* [ ] Automated Progress Tracking
-* [ ] AI Powered Recommendations
-* [ ] Search System
-* [ ] Daily Challenge System
-* [ ] Topic Wise Revision Sheets
-* [ ] Interview Experience Archive
-* [ ] Contest Analytics
-* [ ] Video Explanations
+- [ ] Interactive Visual Explanations
+- [ ] Dedicated Website
+- [ ] Automated Progress Tracking
+- [ ] AI Powered Recommendations
+- [ ] Search System
+- [ ] Daily Challenge System
+- [ ] Topic Wise Revision Sheets
+- [ ] Interview Experience Archive
+- [ ] Contest Analytics
+- [ ] Video Explanations
 
 ---
 
@@ -789,4 +774,3 @@ The goal of this repository is simple:
 Made with ❤️ for the developer community.
 
 </div>
-

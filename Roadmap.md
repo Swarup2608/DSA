@@ -107,13 +107,14 @@ But:
 
 ---
 
-# ⚙️ C++ FUNDAMENTALS
+# ⚙️ JAVA FUNDAMENTALS
 
 ## Basics
-- [x] Compilation Process
+- [x] Compilation Process (`javac` / `java`)
 - [x] Structure of Program
+- [ ] Basic Syntax
 - [ ] Variables
-- [ ] Constants
+- [ ] Constants (`final`)
 - [ ] Data Types
 - [ ] Type Casting
 - [ ] Operators
@@ -123,69 +124,9 @@ But:
 - [ ] Pattern Printing
 
 ## Functions
-- [ ] Functions
-- [ ] Inline Functions
-- [ ] Function Overloading
-- [ ] Default Arguments
+- [ ] Methods
+- [ ] Method Overloading
 - [ ] Recursion
-- [ ] Tail Recursion
-
-## Memory
-- [ ] Pointers
-- [ ] References
-- [ ] Pointer Arithmetic
-- [ ] Dynamic Allocation
-- [ ] Dangling Pointers
-
-## OOP
-- [ ] Classes
-- [ ] Objects
-- [ ] Constructors
-- [ ] Destructors
-- [ ] Encapsulation
-- [ ] Abstraction
-- [ ] Inheritance
-- [ ] Polymorphism
-- [ ] Virtual Functions
-- [ ] Abstract Classes
-
----
-
-# 📦 STL + ADVANCED STL
-
-## Containers
-- [ ] Vector
-- [ ] Array
-- [ ] Pair
-- [ ] Tuple
-- [ ] Stack
-- [ ] Queue
-- [ ] Deque
-- [ ] Priority Queue
-- [ ] Set
-- [ ] Multiset
-- [ ] Map
-- [ ] Unordered Map
-- [ ] Bitset
-
-## Algorithms
-- [ ] sort()
-- [ ] stable_sort()
-- [ ] binary_search()
-- [ ] lower_bound()
-- [ ] upper_bound()
-- [ ] next_permutation()
-- [ ] partial_sum()
-- [ ] accumulate()
-- [ ] nth_element()
-
-## Advanced STL
-- [ ] Lambda Functions
-- [ ] Iterators
-- [ ] Functors
-- [ ] Custom Comparators
-- [ ] PBDS
-- [ ] Rope DS
 
 ---
 
