@@ -123,10 +123,40 @@ But:
 - [ ] Loops
 - [ ] Pattern Printing
 
+## OOP in Java
+- [ ] Classes, Objects & Constructors
+- [ ] Encapsulation
+- [ ] Inheritance
+- [ ] Polymorphism (Overloading / Overriding)
+- [ ] Abstraction — Interface vs Abstract Class
+
+## Java Collections Framework
+- [ ] `List` / `Set` / `Map` — when to use what
+- [ ] `ArrayList` vs `LinkedList`
+- [ ] `HashMap` internals
+
+## Exception Handling
+- [ ] `try` / `catch` / `finally`
+- [ ] Checked vs Unchecked Exceptions
+- [ ] Custom Exceptions
+
 ## Functions
 - [ ] Methods
 - [ ] Method Overloading
-- [ ] Recursion
+- [ ] Recursion — Base Cases & Call Stack
+
+## Lambdas, Functional Interfaces & Streams
+- [ ] Lambda Expressions (`Runnable`, `Comparator`, `Function`)
+- [ ] Streams — `map` / `filter` / `reduce` / `collect`
+- [ ] Grouping & Sorting · `Optional`
+
+## Generics
+- [ ] Bounded Types & Wildcards
+- [ ] Generic Methods & Classes
+
+## Multithreading & Concurrency
+- [ ] `Thread`, `Runnable`, `synchronized`
+- [ ] `ExecutorService`, `Future`, `CompletableFuture`
 
 ---
 
@@ -168,6 +198,17 @@ But:
 - [ ] Matrix Problems
 - [ ] Spiral Traversal
 
+**Practice:** Two Sum · Best Time to Buy/Sell Stock · Maximum Subarray
+
+---
+
+# 🔤 STRINGS BASICS
+
+- [ ] String Manipulation
+- [ ] String Comparison
+
+**Practice:** Reverse String · Valid Anagram
+
 ---
 
 # 👯 TWO POINTERS
@@ -177,6 +218,8 @@ But:
 - [ ] Merge Arrays
 - [ ] Partition Problems
 - [ ] Container Problems
+
+**Practice:** Valid Palindrome · Container With Most Water
 
 ---
 
@@ -189,6 +232,8 @@ But:
 - [ ] Minimum Window Substring
 - [ ] Sliding + Hashing
 
+**Practice:** Longest Substring Without Repeating Characters · Minimum Size Subarray Sum
+
 ---
 
 # #️⃣ HASHING
@@ -199,6 +244,31 @@ But:
 - [ ] Polynomial Hashing
 - [ ] Double Hashing
 - [ ] Custom Hashing
+
+**Practice:** Group Anagrams · Contains Duplicate
+
+---
+
+# 🔃 SORTING & SEARCHING SURVEY
+
+## Sorting (concept + complexity)
+- [ ] Bubble Sort
+- [ ] Selection Sort
+- [ ] Insertion Sort
+- [ ] Merge Sort
+- [ ] Quick Sort
+
+## Searching
+- [ ] Linear Search
+- [ ] Binary Search
+- [ ] Ternary Search
+- [ ] Jump Search
+- [ ] Interpolation Search
+- [ ] Exponential Search
+- [ ] Fibonacci Search
+- [ ] Sentinel Linear Search
+- [ ] Meta Binary Search
+- [ ] Best First Search
 
 ---
 
@@ -216,6 +286,8 @@ But:
 ---
 
 # ♻️ RECURSION & BACKTRACKING
+
+**Practice (Recursion Basics):** Reverse Linked List (recursive) · Merge Two Sorted Arrays · Fibonacci · Power of Two
 
 - [ ] Recursive Trees
 - [ ] Subsequences
@@ -242,6 +314,8 @@ But:
 - [ ] LRU Cache
 - [ ] DLL
 
+**Practice:** Reverse Linked List (iterative) · Middle of the Linked List · Linked List Cycle · Merge Two Sorted Lists
+
 ---
 
 # 📚 STACK & QUEUE
@@ -255,11 +329,15 @@ But:
 - [ ] Largest Histogram
 - [ ] Expression Evaluation
 
+**Practice:** Valid Parentheses · Min Stack
+
 ## Queue
 - [ ] Circular Queue
 - [ ] Queue Using Stack
 - [ ] Sliding Window Maximum
 - [ ] Deque Problems
+
+**Practice:** Implement Queue using Stacks · Sliding Window Maximum
 
 ---
 

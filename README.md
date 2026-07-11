@@ -242,6 +242,8 @@ This repository aims to provide a structured, visual, and beginner-friendly lear
 - Subarray Problems
 - Prefix & Suffix Techniques
 
+**Practice:** Two Sum · Best Time to Buy/Sell Stock · Maximum Subarray
+
 ---
 
 # 🔤 Strings
@@ -254,6 +256,8 @@ This repository aims to provide a structured, visual, and beginner-friendly lear
 - Pattern Matching
 - Substring Problems
 
+**Practice:** Reverse String · Valid Anagram
+
 ---
 
 # #️⃣ Hashing
@@ -265,6 +269,33 @@ This repository aims to provide a structured, visual, and beginner-friendly lear
 - Duplicate Detection
 - Prefix Hashing
 
+**Practice:** Group Anagrams · Contains Duplicate
+
+---
+
+# 🔃 Sorting & Searching Survey
+
+## Sorting (concept + complexity)
+
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+
+## Searching
+
+- Linear Search
+- Binary Search
+- Ternary Search
+- Jump Search
+- Interpolation Search
+- Exponential Search
+- Fibonacci Search
+- Sentinel Linear Search
+- Meta Binary Search
+- Best First Search
+
 ---
 
 # 👯 Two Pointers
@@ -275,6 +306,8 @@ This repository aims to provide a structured, visual, and beginner-friendly lear
 - Sorted Array Techniques
 - Container Problems
 
+**Practice:** Valid Palindrome · Container With Most Water
+
 ---
 
 # 🪟 Sliding Window
@@ -284,6 +317,8 @@ This repository aims to provide a structured, visual, and beginner-friendly lear
 - Maximum Sum Problems
 - Longest Substring Problems
 - Frequency Based Windows
+
+**Practice:** Longest Substring Without Repeating Characters · Minimum Size Subarray Sum
 
 ---
 
@@ -304,6 +339,8 @@ This repository aims to provide a structured, visual, and beginner-friendly lear
 - Recursive Subsets
 - Recursive Patterns
 
+**Practice:** Reverse Linked List (recursive) · Merge Two Sorted Arrays · Fibonacci · Power of Two
+
 ## Backtracking
 
 - Combinations
@@ -323,6 +360,8 @@ This repository aims to provide a structured, visual, and beginner-friendly lear
 - Fast & Slow Pointer
 - Doubly Linked List
 
+**Practice:** Reverse Linked List (iterative) · Middle of the Linked List · Linked List Cycle · Merge Two Sorted Lists
+
 ---
 
 # 📚 Stack & Queue
@@ -334,12 +373,16 @@ This repository aims to provide a structured, visual, and beginner-friendly lear
 - Next Greater Element
 - Expression Problems
 
+**Practice:** Valid Parentheses · Min Stack
+
 ## Queue
 
 - Queue Basics
 - Queue Using Stack
 - Circular Queue
 - Deque Problems
+
+**Practice:** Implement Queue using Stacks · Sliding Window Maximum
 
 ---
 
