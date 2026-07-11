@@ -1,0 +1,18 @@
+# Claude Code
+.claude/
+
+# Java build output
+*.class
+*.jar
+target/
+out/
+build/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
