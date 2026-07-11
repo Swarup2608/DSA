@@ -112,15 +112,15 @@ But:
 ## Basics
 - [x] Compilation Process (`javac` / `java`)
 - [x] Structure of Program
-- [ ] Basic Syntax
-- [ ] Variables
-- [ ] Constants (`final`)
-- [ ] Data Types
-- [ ] Type Casting
-- [ ] Operators
-- [ ] Input / Output
-- [ ] Conditionals
-- [ ] Loops
+- [x] Basic Syntax
+- [x] Variables
+- [x] Constants (`final`)
+- [x] Data Types
+- [x] Type Casting
+- [x] Operators
+- [x] Input / Output
+- [x] Conditionals
+- [x] Loops
 - [ ] Pattern Printing
 
 ## OOP in Java
