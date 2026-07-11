@@ -5,7 +5,7 @@
 ![Language](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge)
 ![Level](https://img.shields.io/badge/Level-Beginner-brightgreen?style=for-the-badge)
 ![Phase](https://img.shields.io/badge/Phase-1%20Foundations-blue?style=for-the-badge)
-![Topics](https://img.shields.io/badge/Topics-11-blueviolet?style=for-the-badge)
+![Topics](https://img.shields.io/badge/Topics-12-blueviolet?style=for-the-badge)
 
 </div>
 
@@ -28,6 +28,7 @@ Think of this folder as a semester-one lecture series, minus the boring parts.
 | 9 | Input / Output | [09-input-output.md](09-input-output.md) |
 | 10 | Conditionals | [10-conditionals.md](10-conditionals.md) |
 | 11 | Loops | [11-loops.md](11-loops.md) |
+| 12 | Functions | [12-functions.md](12-functions.md) |
 
 ## 🧭 How to use these notes
 

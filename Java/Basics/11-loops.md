@@ -173,4 +173,4 @@ for (int i = 1; i <= 4; i++) {
 2. Write nested loops that print a 5x5 grid of `*` characters, then modify it to print a right-triangle pattern like the example above.
 3. Write a loop from 1 to 20 that uses `continue` to skip multiples of 3 and `break` to stop entirely once it hits 15.
 
-**Previous:** [← Conditionals](10-conditionals.md) · **Back to:** [Java Basics Index](README.md)
+**Previous:** [← Conditionals](10-conditionals.md) · **Next:** [Functions →](12-functions.md)
